@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ayushi Rastogi
+Skills: HTML, CSS, JS, MERN stack, Python
+Email: rayushi142@gmail.com
+{{/user}}
